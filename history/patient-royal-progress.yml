@@ -1,7 +1,7 @@
 url: https://patient.royalprogress.com/id/login
-status: down
-code: 500
-responseTime: 922
-lastUpdated: 2026-08-29T04:41:59.634Z
+status: up
+code: 200
+responseTime: 928
+lastUpdated: 2026-08-29T04:46:08.335Z
 startTime: 2026-08-29T04:41:43.850Z
 generator: Upptime <https://github.com/upptime/upptime>
