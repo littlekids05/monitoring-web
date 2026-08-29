@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/patient.royalprogress.com.ico",
     "slug": "patient-royal-progress",
     "status": "up",
-    "uptime": "7.28%",
-    "uptimeDay": "7.28%",
-    "uptimeWeek": "7.28%",
-    "uptimeMonth": "7.28%",
-    "uptimeYear": "7.28%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 925,
     "timeDay": 925,
     "timeWeek": 925,
     "timeMonth": 925,
     "timeYear": 925,
-    "dailyMinutesDown": {
-      "2026-08-29": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
