@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/royalprogress.com.ico",
     "slug": "royal-progress-main-web",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1660,
     "timeDay": 3445,
     "timeWeek": 1822,
     "timeMonth": 1660,
     "timeYear": 1660,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-07": 1
+    }
   },
   {
     "name": "Royal Progress Oncare",
@@ -40,17 +42,17 @@
     "url": "https://patient.royalprogress.com/id/login",
     "icon": "https://icons.duckduckgo.com/ip3/patient.royalprogress.com.ico",
     "slug": "patient-royal-progress",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1274,
-    "timeDay": 1472,
-    "timeWeek": 1314,
-    "timeMonth": 1274,
-    "timeYear": 1274,
+    "time": 2662,
+    "timeDay": 10393,
+    "timeWeek": 3564,
+    "timeMonth": 2662,
+    "timeYear": 2662,
     "dailyMinutesDown": {}
   }
 ]
