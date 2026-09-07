@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/royalprogress.com.ico",
     "slug": "royal-progress-main-web",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1660,
-    "timeDay": 3445,
-    "timeWeek": 1822,
-    "timeMonth": 1660,
-    "timeYear": 1660,
+    "uptime": "97.70%",
+    "uptimeDay": "79.01%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.70%",
+    "time": 4335,
+    "timeDay": 14738,
+    "timeWeek": 5947,
+    "timeMonth": 4335,
+    "timeYear": 4335,
     "dailyMinutesDown": {
-      "2026-09-07": 1
+      "2026-09-07": 302
     }
   },
   {
@@ -42,17 +42,19 @@
     "url": "https://patient.royalprogress.com/id/login",
     "icon": "https://icons.duckduckgo.com/ip3/patient.royalprogress.com.ico",
     "slug": "patient-royal-progress",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2662,
-    "timeDay": 10393,
-    "timeWeek": 3564,
-    "timeMonth": 2662,
-    "timeYear": 2662,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "97.71%",
+    "uptimeDay": "79.09%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "97.71%",
+    "time": 2528,
+    "timeDay": 7193,
+    "timeWeek": 3256,
+    "timeMonth": 2528,
+    "timeYear": 2528,
+    "dailyMinutesDown": {
+      "2026-09-07": 301
+    }
   }
 ]
