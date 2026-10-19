@@ -4,20 +4,20 @@
     "url": "https://royalprogress.com/id",
     "icon": "https://icons.duckduckgo.com/ip3/royalprogress.com.ico",
     "slug": "royal-progress-main-web",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.55%",
-    "time": 2844,
-    "timeDay": 625,
-    "timeWeek": 2669,
-    "timeMonth": 2741,
-    "timeYear": 2844,
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "78.49%",
+    "uptimeWeek": "96.93%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.17%",
+    "time": 2837,
+    "timeDay": 1231,
+    "timeWeek": 2688,
+    "timeMonth": 2731,
+    "timeYear": 2837,
     "dailyMinutesDown": {
       "2026-09-07": 302,
-      "2026-10-19": 28
+      "2026-10-19": 310
     }
   },
   {
@@ -25,17 +25,17 @@
     "url": "https://oncare.royalprogress.com/id",
     "icon": "https://icons.duckduckgo.com/ip3/oncare.royalprogress.com.ico",
     "slug": "royal-progress-oncare",
-    "status": "down",
-    "uptime": "97.68%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "97.12%",
-    "uptimeMonth": "97.42%",
-    "uptimeYear": "97.68%",
-    "time": 2042,
-    "timeDay": 1383,
-    "timeWeek": 1542,
-    "timeMonth": 2263,
-    "timeYear": 2042,
+    "status": "up",
+    "uptime": "97.31%",
+    "uptimeDay": "78.83%",
+    "uptimeWeek": "94.32%",
+    "uptimeMonth": "97.02%",
+    "uptimeYear": "97.31%",
+    "time": 2035,
+    "timeDay": 1492,
+    "timeWeek": 1546,
+    "timeMonth": 2244,
+    "timeYear": 2035,
     "dailyMinutesDown": {
       "2026-09-10": 197,
       "2026-09-09": 37,
@@ -47,7 +47,7 @@
       "2026-10-08": 77,
       "2026-10-07": 140,
       "2026-10-17": 268,
-      "2026-10-19": 23
+      "2026-10-19": 305
     }
   },
   {
@@ -55,17 +55,17 @@
     "url": "https://patient.royalprogress.com/id/login",
     "icon": "https://icons.duckduckgo.com/ip3/patient.royalprogress.com.ico",
     "slug": "patient-royal-progress",
-    "status": "down",
-    "uptime": "96.69%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "97.12%",
-    "uptimeMonth": "97.51%",
-    "uptimeYear": "96.69%",
-    "time": 1681,
-    "timeDay": 601,
-    "timeWeek": 1060,
-    "timeMonth": 1430,
-    "timeYear": 1681,
+    "status": "up",
+    "uptime": "96.32%",
+    "uptimeDay": "78.84%",
+    "uptimeWeek": "94.32%",
+    "uptimeMonth": "96.87%",
+    "uptimeYear": "96.32%",
+    "time": 1676,
+    "timeDay": 851,
+    "timeWeek": 1079,
+    "timeMonth": 1428,
+    "timeYear": 1676,
     "dailyMinutesDown": {
       "2026-09-07": 301,
       "2026-09-16": 329,
@@ -74,7 +74,7 @@
       "2026-09-25": 173,
       "2026-10-08": 441,
       "2026-10-17": 267,
-      "2026-10-19": 23
+      "2026-10-19": 305
     }
   }
 ]
